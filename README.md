@@ -6,4 +6,4 @@ This project is actually a **Game** for Wii U! Precisely a **Rhythm** game. The 
 The project just started. It's not available. There isn't a build that you can download yet. But you can check below for the progress or the planned features for the game.
 
 # Progress - ProjectU-Rhythm
-
+- [ ] #1
