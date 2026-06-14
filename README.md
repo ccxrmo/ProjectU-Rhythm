@@ -1,4 +1,6 @@
 # ProjectU-Rhythm
+> [!NOTE]
+> This is a solo work in progress project. Don't expect huge improvements anytime soon
 I'm a begginner at coding and I wanted to started to move on to simple C++ programs and HTML to something a bit more substantial. So... here we are! I present to you **ProjectU-Rhythm** (this is just a codename, the real name for this thing doesn't really exist).
 ## What exactly is this?
 This project is actually a **Game** for Wii U! Precisely a **Rhythm** game. The concept of this game is similar to Dance Dance Revolution or Friday Night Funkin, you hit arrows at the beat of the song.
